@@ -6,3 +6,4 @@ add one line agagin
 user git to add line
 test git again
 git add 190812 23:15
+git master add the line 190812
