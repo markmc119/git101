@@ -7,4 +7,8 @@ user git to add line
 test git again
 git add 190812 23:15
 git master add the line 190812
+<<<<<<< HEAD
 test
+=======
+add from git102
+>>>>>>> de9eae25635a4f6482f4428842e446042a32af95
